@@ -28,7 +28,7 @@ I took the last column of the previous spreadsheet and copied it into Python to 
 
 ![Graph 1](output/JG_IChing_06_Dict_A_001.jpg)
 
-I created a JSON file for me that contains the interpretation of each of the 64 hexagrams. Each line of each of the 64 hexagrams has its own sub-meaning, which you can see recorded in the "lines" sections.
+I created a JSON file that contains the interpretation of each of the 64 hexagrams. Each line of each of the 64 hexagrams has its own sub-meaning, which you can see recorded in the "lines" sections.
 
 ![Graph 1](output/JG_IChing_07_JSON_A_001.jpg)
 
