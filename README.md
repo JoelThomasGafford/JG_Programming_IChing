@@ -48,6 +48,8 @@ Here is a sample question and answer. I asked the IChing, "What is the meaning o
 
 A reasonable interpretation of this cast could be that the IChing is saying that the meaning of life is to make progress, be persevering, and not be in a hurry to "Cross the river" of life and make mistakes by "Getting his/her tail stuck in the water." Not bad for a 3000 year old book, right?
 
+![Graph 1](output/JG_IChing_11_Question_A_001.jpg)
+
 
 
 
