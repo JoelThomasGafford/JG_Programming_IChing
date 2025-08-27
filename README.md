@@ -44,7 +44,7 @@ Here is another Python file that when run, asks us what our question of the IChi
 
 ![Graph 1](output/JG_IChing_10_Call_Class_A_001.jpg)
 
-Here is a sample question and answer. I asked the IChing, "What is the meaning of life?" and it responded with the original hexagram "Before" (also translated as "Before Completion), transforming into the changed hexagram, "Progress." The only changing line was line 2, which gives the sub-meaning of, "He brakes his wheel. Perseverence brings good fortune."
+Here is a sample question and answer. I asked the IChing, "What is the meaning of life?" and it responded with the original hexagram "Before" (also translated as "Before Completion"), transforming into the changed hexagram, "Progress." The only changing line was line 2, which gives the sub-meaning of, "He brakes his wheel. Perseverence brings good fortune."
 
 A reasonable interpretation of this cast could be that the IChing is saying that the meaning of life is to make progress, be persevering, and not be in a hurry to "Cross the river" of life and make mistakes by "Getting his/her tail stuck in the water." Not bad for a 3000 year old book, right?
 
